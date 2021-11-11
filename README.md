@@ -7,3 +7,6 @@
 JDK11
 
 aiml檔案 可以根據您的平台修改顧客問題和機器人回覆的答案。
+
+![image](https://user-images.githubusercontent.com/89830856/141265096-3385ad90-6ee3-4108-8c33-1695070d0e58.png)
+
